@@ -1,7 +1,8 @@
 #!/bin/bash
-
+#dvir hachoen & yuval amar
 #this file check a directory that include makefile and check 3 things
 #check if the file can compile,check if there are leak of memory and check therd race.
+
 
 
 folderName=$1
